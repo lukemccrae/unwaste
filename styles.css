@@ -1,0 +1,37 @@
+#un, #waste, #footer {
+    display: inline;
+    color: white;
+}
+
+#un {
+    border-width: .1em;
+    border-color: white;
+    border-style: solid;
+    padding-left: .6vh;
+}
+
+#waste {
+    font-size: 140%;
+    padding-left: .4em;
+}
+
+#text {
+    font-size: 2em;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0;
+    /* bottom = footer height */
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
