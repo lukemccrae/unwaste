@@ -16,7 +16,25 @@
 }
 
 #text {
-    font-size: 2em;
+    font-size: 1.5em;
+}
+
+#button {
+    display: inlin e;
+}
+
+#input {
+    width: 100%;
+}
+
+#textarea {
+    height: 50vh;
+}
+
+#arrow {
+    height: 5em;
+    width: 5em;
+    margin-top: 2em;
 }
 
 html {
@@ -34,4 +52,11 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
+}
+
+;
+
+}
+;
+
 }
